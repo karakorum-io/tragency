@@ -1,5 +1,5 @@
 <?php
 
-echo "<h1>Updated Change</h1>";
+echo "<h1>Updated Changes</h1>";
 
 phpinfo();
