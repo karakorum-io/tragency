@@ -1,0 +1,10 @@
+[07-Mar-2025 21:20:59 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 65
+[07-Mar-2025 21:21:42 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 65
+[07-Mar-2025 21:24:31 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 62
+[07-Mar-2025 21:47:52 UTC] PHP Notice:  Undefined index: text in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 66
+[07-Mar-2025 21:47:53 UTC] PHP Notice:  Undefined index: text in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 66
+[07-Mar-2025 21:57:17 UTC] PHP Notice:  Undefined index: first_name in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 83
+[07-Mar-2025 21:57:41 UTC] PHP Notice:  Undefined index: first_name in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 83
+[07-Mar-2025 22:01:15 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7610220591:AAHBm4qGtn-ge_3Rjljg0QV4Wb9dbcS_cZM/sendMessage): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 33
+[07-Mar-2025 22:48:03 UTC] PHP Notice:  Undefined variable: sender in /home/s57ut1kj6air/public_html/send-message-webhook.php on line 127
